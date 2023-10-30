@@ -2,7 +2,7 @@ let sonido;
 
 function preload() {
   // soundFormats("wan", "mp3", "ogg");
-  sonidoBassloop = loadSound("sonido/bassloop.mp3");
+  sonidoBassloop = loadSound("sonidos/bassloop.mp3");
 }
 
 function setup() {
